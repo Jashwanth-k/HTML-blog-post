@@ -1,2 +1,2 @@
-# HTML-web-page
-article written in html along with css
+# HTML-blog-post
+blog written in html along with css
